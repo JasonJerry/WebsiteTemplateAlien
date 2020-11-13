@@ -11,7 +11,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>Primefort -  Securing Innovation</title>
+		<title>WhiteDevil -  Securing Innovation</title>
 		<meta name="description" content="The description should optimally be between 150-160 characters.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Madeon08">
